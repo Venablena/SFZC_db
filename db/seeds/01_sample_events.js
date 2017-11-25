@@ -9,7 +9,7 @@ exports.seed = function(knex, Promise) {
           name: "Eihei Dogen & Keizan Jokin Memorial",
           frequency: "once",
           type: "ceremony",
-          date: "2017-9-29",
+          date: "2017-09-29",
           timeStart: '06:30',
           timeEnd: '07:00',
           center: "CC",
@@ -33,19 +33,10 @@ exports.seed = function(knex, Promise) {
           center: "GG",
           brief: "First Sundays, 10 – 11:30 am (No program in January, April and December)"
         },{
-          name: "Youth and Family Program",
-          frequency: "monthly",
-          type: "group",
-          date: "2017-11-5",
-          timeStart: '09:45',
-          timeEnd: "11:45",
-          center: "GG",
-          brief: "First Sundays, 10 – 11:30 am (No program in January, April and December)"
-        },{
           name: "Meditation in Recovery",
           frequency: "weekly",
           type: "group",
-          date: "2017-10-2",
+          date: "2017-10-02",
           timeStart: '19:30',
           timeEnd: '21:00',
           center: "CC",
